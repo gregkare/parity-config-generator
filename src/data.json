@@ -111,7 +111,7 @@
     "description": "Unlocking accounts and private keys security parameters.",
     "unlock": {
       "name": "Accounts to unlock",
-      "description": "From: [{}] you'll be able to send tranasactions without password.",
+      "description": "From: [{}] you'll be able to send transactions without password.",
       "default": [""]
     },
     "password": {
